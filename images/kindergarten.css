@@ -67,6 +67,12 @@ h1{
     top: 750px;
     right: 1150px;
 }
+.wet{
+    font-size: 25px;
+}
+.sky{
+    font-size: 20px;
+}
 section-2 img{
     width: 100%;
 }
@@ -193,4 +199,7 @@ footer h3{
     display: flex;
     gap: 20px;
     align-items: center;
+}
+.hr{
+    color: aliceblue;
 }
