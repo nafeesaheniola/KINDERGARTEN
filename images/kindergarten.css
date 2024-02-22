@@ -1,0 +1,196 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+*{
+    max-width: 100%;
+}
+
+a{
+    text-decoration: none;
+}
+header img{
+    width: 20px;
+}
+
+header{
+    background-color: hotpink;
+    display: flex;
+    gap: 20px;
+}
+.root{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+.section-one{
+    display: flex;
+    gap: 50px;
+    margin-top: 30px;
+}
+.list{
+    display: flex;
+    list-style-type: none;
+    gap: 50px;
+    font-size: 20px;
+    align-items: end;
+}
+section button{
+    width: 150px;
+    background-color: deepskyblue;
+    color: white;
+    border-radius: 30px;
+}
+a:hover{
+    color: red;
+}
+h1{
+    font-size: 50px;
+   max-width:400px;
+}
+.see{
+    background-color: beige;
+    width: 200px;
+    padding:150px;
+    border-radius: 70px;
+    position: absolute;
+    top: 300px;
+}
+.click{
+    background-color: hotpink;
+    color: white;
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+    position: absolute;
+    top: 750px;
+    right: 1150px;
+}
+section-2 img{
+    width: 100%;
+}
+section-3{
+    text-align: center;
+}
+section-3 p{
+    color: darkblue;
+}
+.about-container{
+     display: flex;
+     flex-direction: row-reverse;
+     margin-left:-100px ;
+     gap: 200px;
+}
+section-4 p{
+    color: darkblue;
+}
+.goods{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    background-color: lavenderblush;
+}
+.goods section{
+    background-color: white;
+}
+.foot{
+    text-align: center;
+    font-size: 35px;
+    color: darkblue;
+}
+.foot-two{
+    font-size: 20px;
+    text-align: center;
+}
+.one-more{
+    width: 150px;
+    height: 60px;
+    border-radius: 30px;
+    color: hotpink;
+    background-color: white;
+}
+.butt{
+    text-align: center;
+}
+.pim img{
+    width: 100%;
+}
+.put{
+    margin-top: -700px;
+    text-align: center;
+}
+.pin{
+    background-color: white;
+}
+.ram{
+    width: 200px;
+    height: 50px;
+}
+.event{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    background-color: lavenderblush;
+}
+.flip{
+    display: flex;
+    justify-content: space-between;
+}
+.three{
+    color: darkblue;
+    text-align: center;
+}
+.tip{
+    color: darkblue;
+    text-align: center;
+}
+.founder{
+    text-align: center;
+    margin-top: 200px;
+    background-color: lavenderblush;
+}
+.jac{
+    color: deeppink;
+}
+.dark{
+    color: darkblue;
+    font-size: 22px;
+}
+/**FOOTER STYLE**/
+footer a:hover{
+    color: white;
+}
+footer{
+    background-color: rgb(2, 2, 59);
+}
+.pep{
+    color: white;
+    font-size: 22px;
+    width: 500px;
+}
+footer a{
+    display: flex;
+    color: white;
+    line-height: 2.0;
+}
+footer h3{
+    color: white;
+    font-size: 20px;
+}
+.balls{
+    display: flex;
+    justify-content: space-around;
+    padding: 60px;
+}
+.wit{
+    font-size: 19px;
+    color: white;
+    text-align: center;
+}
+.toks{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
